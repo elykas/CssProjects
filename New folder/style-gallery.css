@@ -1,0 +1,37 @@
+h1{
+    color: aqua;
+    background-color: beige;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 50px;
+}
+
+.image-container{
+    padding: auto;
+    margin: 80px;
+}
+
+#image1{
+    display: inline;
+    margin: 25px;
+}
+
+#image2{
+    display: inline;
+    margin: 25px;
+}
+#image3{
+    display: inline;
+    margin: 25px;
+}
+#image4{
+    display: inline;
+    margin: 25px;
+}
+
+a{
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 35px;
+
+}
